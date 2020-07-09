@@ -1,0 +1,4 @@
+kddcup.test filter=lfs diff=lfs merge=lfs -text
+kddcup.train filter=lfs diff=lfs merge=lfs -text
+kddcup.validate filter=lfs diff=lfs merge=lfs -text
+kddcup.train.small filter=lfs diff=lfs merge=lfs -text
